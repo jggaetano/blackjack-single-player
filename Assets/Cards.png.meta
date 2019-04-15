@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: 1450899e298fbb5438aa82588e208762
+timeCreated: 1479659938
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ace_Clubs
+    21300002: Two_Clubs
+    21300004: Three_Clubs
+    21300006: Four_Clubs
+    21300008: Five_Clubs
+    21300010: Six_Clubs
+    21300012: Seven_Clubs
+    21300014: Eight_Clubs
+    21300016: Nine_Clubs
+    21300018: Ten_Clubs
+    21300020: Jack_Clubs
+    21300022: Queen_Clubs
+    21300024: King_Clubs
+    21300026: Ace_Hearts
+    21300028: Two_Hearts
+    21300030: Three_Hearts
+    21300032: Four_Hearts
+    21300034: Five_Hearts
+    21300036: Six_Hearts
+    21300038: Seven_Hearts
+    21300040: Eight_Hearts
+    21300042: Nine_Hearts
+    21300044: Ten_Hearts
+    21300046: Jack_Hearts
+    21300048: Queen_Hearts
+    21300050: King_Hearts
+    21300052: Ace_Spades
+    21300054: Two_Spades
+    21300056: Three_Spades
+    21300058: Four_Spades
+    21300060: Five_Spades
+    21300062: Six_Spades
+    21300064: Seven_Spades
+    21300066: Eight_Spades
+    21300068: Nine_Spades
+    21300070: Ten_Spades
+    21300072: Jack_Spades
+    21300074: Queen_Spades
+    21300076: King_Spades
+    21300078: Ace_Diamonds
+    21300080: Two_Diamonds
+    21300082: Three_Diamonds
+    21300084: Four_Diamonds
+    21300086: Five_Diamonds
+    21300088: Six_Diamonds
+    21300090: Seven_Diamonds
+    21300092: Eight_Diamonds
+    21300094: Nine_Diamonds
+    21300096: Ten_Diamonds
+    21300098: Jack_Diamonds
+    21300100: Queen_Diamonds
+    21300102: King_Diamonds
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ace_Clubs
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Two_Clubs
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 296
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Three_Clubs
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 296
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Four_Clubs
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 296
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Five_Clubs
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 296
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Six_Clubs
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 296
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seven_Clubs
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 296
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eight_Clubs
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 296
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nine_Clubs
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 296
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ten_Clubs
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 296
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jack_Clubs
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 296
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Queen_Clubs
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 296
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: King_Clubs
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 296
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ace_Hearts
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Two_Hearts
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 198
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Three_Hearts
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 198
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Four_Hearts
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 194
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Five_Hearts
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 199
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Six_Hearts
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 198
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seven_Hearts
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 198
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eight_Hearts
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 198
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nine_Hearts
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 197
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ten_Hearts
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 198
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jack_Hearts
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 198
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Queen_Hearts
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 198
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: King_Hearts
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 198
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ace_Spades
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Two_Spades
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 100
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Three_Spades
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 100
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Four_Spades
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 100
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Five_Spades
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 100
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Six_Spades
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 100
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seven_Spades
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 100
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eight_Spades
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 100
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nine_Spades
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 100
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ten_Spades
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 100
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jack_Spades
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 100
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Queen_Spades
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 99
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: King_Spades
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 100
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ace_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Two_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Three_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Four_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Five_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Six_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 2
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Seven_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 2
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eight_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nine_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ten_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jack_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 2
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Queen_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: King_Diamonds
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 2
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
